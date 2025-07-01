@@ -1,4 +1,4 @@
-<h1>Hi, I am Iquoc! <br/><a href="https://github.com/Iquoc">Game Developer</a>, <a href="https://www.linkedin.com/in/iquoc-tran/">Programmer</a></h1>
+<h1>Hi, I am Iquoc! <br/><a href="https://github.com/Iquoc/Resume">Game Developer</a>, <a href="https://www.linkedin.com/in/iquoc-tran/">Programmer</a></h1>
 
 <h2> Game Development Projects:</h2>
 
