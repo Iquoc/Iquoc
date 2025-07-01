@@ -29,9 +29,9 @@
 
 [linkedin]: https://www.linkedin.com/in/iquoc-tran/
 
-<h2> Credits: </h2>
+<br><h2> Credits: </h2>
 
-- Josh Madakor!  I followed a basic tutorial to setup a Portfolio page (https://www.youtube.com/watch?v=zgqfWLHNKLk)
+- <b>Josh Madakor!  I followed a basic tutorial to setup a Portfolio page (https://www.youtube.com/watch?v=zgqfWLHNKLk) </b>
 
 <!--
 **Iquoc/Iquoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
