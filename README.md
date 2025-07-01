@@ -1,9 +1,42 @@
-## Hi there 👋
+<h1>Hi, I am Iquoc! <br/><a href="https://github.com/Iquoc">Game Developer</a>, <a href="https://www.linkedin.com/in/iquoc-tran/">Programmer</a></h1>
+
+<h2> Game Development Projects:</h2>
+
+- <b>BuLLET | Solo Project, Unity, C#, Game Design, Sprite Art & Animation</b>
+  - [2D Black & White turret shooting arcade-style game](https://github.com/Iquoc/BuLLET)
+- <b>Ghost Hunter Sam | Solo Project, Game Engine, C++, SDL2, Game Design, Sprite Art & Animation</b>
+  - [2D 4-direction horror arcade-style game: Explore the Mansion, Collect Evidence, Beware the Ghost and Prove They Are Real!](https://github.com/Iquoc/Ghost-Hunter-Sam-Public)
+- <b>Mac and Us | School Team Project, Unity, C#, Game Design, Communication, Teamwork, Cross-function Collaboration</b>
+  - [GAM 245 Final Project (I was responsible for the Programming and Unity Development](https://github.com/Iquoc/GAM-245-Project-Mac-and-Us)
+- <b>Tile-Color | School Solo Project, Unity, C#, Game Design</b>
+  - [Puzzle Game demonstrating quick implementation, simple game design, and scalability](https://github.com/Iquoc/Tile-Color)
+
+<h2> Software Development Projects:</h2>
+
+- <b>Senior Capstone Full-Stack Event Form | University Team Project, Client Work, Full-Stack, Python, Flask, React, Agile/Jira, StripeAPI, MongoDB, Lampy/EC2; Teamwork, Documentation, Time Management, Cross-function Collaboration</b>
+  - [Event Form to minimize client's workflow: Google Forms, EventBrite, and MailChimp all-in-one](https://github.com/Iquoc/The-Brown-House-Experience-Event-Form)<b><i>(The Brown House Experience)</b></i>
+- <b>Full Stack Web App | Solo Project, HTML/CSS, UI/UX, Angular, .NET, Docker, MySQL</b>
+  - [Implement and design a full-stack webpage to showcase hobbies and personal interests](https://github.com/Iquoc/Website-2.25)
+
+<h2>Work Experience</h2>
+
+- <b>Research Assistant on the Climate Change VR HexLab Project</b>
+  - [Alumni research assistant at HexLab](https://hexlab.cdm.depaul.edu/team/)
+
+<h2> Connect with me:</h2>
+
+[<img align="left" alt="Iquoc Tran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/iquoc-tran/
+
+<h3> Credits: </h3>
+
+- Josh Madakor!  I followed a basic tutorial to setup a Portfolio page (https://www.youtube.com/watch?v=zgqfWLHNKLk)
 
 <!--
 **Iquoc/Iquoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:https://www.youtube.com/watch?v=zgqfWLHNKLk
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
