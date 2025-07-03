@@ -22,6 +22,7 @@
 
 - <b>Research Assistant on the Climate Change VR HexLab Project</b>
   - [Alumni research assistant at HexLab](https://hexlab.cdm.depaul.edu/team/)
+  - [Climate Change VR Project](https://github.com/Iquoc/HexLab-Climate-Change-VR)
 
 <h2> Connect with me:</h2>
 
