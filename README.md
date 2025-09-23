@@ -2,6 +2,8 @@
 
 <h2> Game Development Projects:</h2>
 
+- <b>Get Off My Channel! by GOOD BITS | GOOD BITS 2024 Collaboration between the School of Comedy Arts and Game Design, RenPy, Python, Game Design, Storytelling, Sprite Art & Animation</b>
+  - [2D RPG, Adventure, Comedy game](https://goodbits.itch.io/get-off-my-channel)
 - <b>BuLLET | Solo Project, Unity, C#, Game Design, Sprite Art & Animation</b>
   - [2D Black & White turret shooting arcade-style game](https://github.com/Iquoc/BuLLET)
 - <b>Ghost Hunter Sam | Solo Project, Game Engine, C++, SDL2, Game Design, Sprite Art & Animation</b>
