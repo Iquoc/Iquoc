@@ -1,5 +1,7 @@
 <h1>Hi, I am Iquoc! <br/><a href="https://github.com/Iquoc/Resume">Game Developer</a>, <a href="https://www.linkedin.com/in/iquoc-tran/">Programmer</a></h1>
 
+<h1><a href="https://github.com/Iquoc/Resume">Resume</a></h1>
+
 <h2> Game Development Projects:</h2>
 
 - <b>Get Off My Channel! by GOOD BITS | GOOD BITS 2024 Collaboration between the School of Comedy Arts and Game Design, RenPy, Python, Game Design, Storytelling, Sprite Art & Animation</b>
