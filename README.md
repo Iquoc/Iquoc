@@ -17,16 +17,21 @@
 
 <h2> Software Development Projects:</h2>
 
-- <b>Senior Capstone Full-Stack Event Form | University Team Project, Client Work, Full-Stack, Python, Flask, React, Agile/Jira, StripeAPI, MongoDB, Lampy/EC2; Teamwork, Documentation, Time Management, Cross-function Collaboration</b>
-  - [Event Form to minimize client's workflow: Google Forms, EventBrite, and MailChimp all-in-one](https://github.com/Iquoc/The-Brown-House-Experience-Event-Form)<b><i>(The Brown House Experience)</b></i>
 - <b>Full Stack Web App | Solo Project, HTML/CSS, UI/UX, Angular, .NET, Docker, MySQL</b>
   - [Implement and design a full-stack webpage to showcase hobbies and personal interests](https://github.com/Iquoc/Website-2.25)
+- <b>Art Institute of Chicago Mock App | Android Studio, HTML/CSS, UI/UX, Java, RESTful API</b>
+- <b>Mechanic Mobile App | Solo Project, Kotlin, RESTful API (gemini), HTML/CSS, UI/UX</b>
+  - [Design and develop mechanic tool application utilizing AI-enhanced features]()
 
 <h2>Work Experience</h2>
 
 - <b>Research Assistant on the Climate Change VR HexLab Project</b>
   - [Alumni research assistant at HexLab](https://hexlab.cdm.depaul.edu/team/)
   - [Climate Change VR Project](https://github.com/Iquoc/HexLab-Climate-Change-VR)
+- <b>Senior Capstone Full-Stack Event Form | University Team Project, Client Work, Full-Stack, Python, Flask, React, Agile/Jira, StripeAPI, MongoDB, Lampy/EC2; Teamwork, Documentation, Time Management, Cross-function Collaboration</b>
+  - [Event Form to minimize client's workflow: Google Forms, EventBrite, and MailChimp all-in-one](https://github.com/Iquoc/The-Brown-House-Experience-Event-Form)<b><i>(The Brown House Experience)</b></i>
+- <b>Java Parking Lot Management App | Spring, Java, Maven, AWS, OOP, CLI, Agile</b>
+  - [Take Home Assessment Implementing Spring, Java 17+, AWS](https://github.com/Iquoc/Parking-Lot-Management-App)
 
 <h2> Connect with me:</h2>
 
